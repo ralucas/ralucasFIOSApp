@@ -8,7 +8,8 @@ Thanks for coming out to the Apigee mobile app trainings in Boulder this week!
 [Explore advanced Apigee features:](http://apigee.com/docs/app_services) (geolocation, push notifications, social sharing, file storage, groups, counters, etc.) — we also have different platform features if you need API Management, Mobile Analytics, etc. You can learn more about this and how to deploy this technology at your company at http://apigee.com/
 
 #####Slides
-[You can access the slides for the HTML5 training here:](https://www.dropbox.com/s/ct5f8urjr4pybdz/Build%20A%20Mobile%20App%20.pdf)
+You can access the slides for the HTML5 training here:
+https://www.dropbox.com/s/ct5f8urjr4pybdz/Build%20A%20Mobile%20App%20.pdf
 
 Notes
 ------
@@ -23,7 +24,6 @@ Notes
 * to create app:
 
 ```
-
 $ phone gap create 'myApp' 'com.apigee.myApp' MyApp
 ```
 
